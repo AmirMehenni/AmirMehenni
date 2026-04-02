@@ -82,6 +82,8 @@ Je développe des sites web, dashboards et applications métiers en utilisant le
 ## 📬 Contact
 
 📧 Email : amirmehenni28@gmail.com
+Linkedin: https://www.linkedin.com/in/mehenni-amir-4048a2258
+
 🌐 Portfolio : https://your-portfolio.com
 
 ---
