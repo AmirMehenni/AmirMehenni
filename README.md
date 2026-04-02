@@ -1,21 +1,21 @@
 # 👨‍💻 Freelance Web Developer — HTML | CSS | JavaScript | ASP.NET
 
-Bienvenue sur mon espace GitHub 👋
-Je suis **développeur web freelance** spécialisé dans la création d'applications web modernes, rapides et sécurisées.
+Welcome to my GitHub space 👋
+I am a **freelance web developer** specialized in building modern, fast, and secure web applications.
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-💼 Développeur Web Freelance
-🌍 Disponible pour projets à distance
-🎯 Objectif : créer des solutions web performantes et adaptées aux besoins des clients.
+💼 Freelance Web Developer
+🌍 Available for remote projects
+🎯 Goal: to create high-performance web solutions tailored to client needs.
 
-Je développe des sites web, dashboards et applications métiers en utilisant les technologies Microsoft et le développement Front-End moderne.
+I develop websites, dashboards, and business web applications using Microsoft technologies and modern Front-End development practices.
 
 ---
 
-## 🛠️ Technologies & Compétences
+## 🛠️ Technologies & Skills
 
 ### 🌐 Front-End
 
@@ -34,13 +34,13 @@ Je développe des sites web, dashboards et applications métiers en utilisant le
 * REST API
 * Entity Framework
 
-### 🗄️ Base de données
+### 🗄️ Databases
 
 * SQL Server
 * Oracle SQL
 * MySQL
 
-### 🔧 Outils
+### 🔧 Tools
 
 * Git & GitHub
 * Visual Studio
@@ -49,48 +49,47 @@ Je développe des sites web, dashboards et applications métiers en utilisant le
 
 ---
 
-## 📂 Services Freelance
+## 📂 Freelance Services
 
-✅ Création de sites web professionnels
-✅ Développement d’applications web ASP.NET
-✅ Intégration HTML / CSS responsive
-✅ Développement API REST
-✅ Maintenance et optimisation de projets existants
-✅ Correction de bugs et amélioration performance
+✅ Professional website development
+✅ ASP.NET web application development
+✅ Responsive HTML / CSS integration
+✅ REST API development
+✅ Maintenance and optimization of existing projects
+✅ Bug fixing and performance improvement
 
 ---
 
-## 📸 Exemples de projets
+## 📸 Project Examples
 
-| Projet          | Description               | Technologies            |
+| Project         | Description               | Technologies            |
 | --------------- | ------------------------- | ----------------------- |
-| Dashboard Admin | Application de gestion    | ASP.NET MVC, SQL Server |
-| Landing Page    | Page marketing responsive | HTML, CSS, JavaScript   |
-| API Backend     | API REST sécurisée        | ASP.NET Core            |
+| Admin Dashboard | Management application    | ASP.NET MVC, SQL Server |
+| Landing Page    | Responsive marketing page | HTML, CSS, JavaScript   |
+| Backend API     | Secure REST API           | ASP.NET Core            |
 
 ---
 
-## 📈 Objectifs
+## 📈 Goals
 
-* Code propre et maintenable
-* Performance optimisée
-* Sécurité des applications
-* Expérience utilisateur moderne
+* Clean and maintainable code
+* Optimized performance
+* Application security
+* Modern user experience
 
 ---
 
 ## 📬 Contact
 
-📧 Email : amirmehenni28@gmail.com
-Linkedin: https://www.linkedin.com/in/mehenni-amir-4048a2258
-
-🌐 Portfolio : https://your-portfolio.com
+📧 Email: [amirmehenni28@gmail.com](mailto:amirmehenni28@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/mehenni-amir-4048a2258
+🌐 Portfolio: https://your-portfolio.com
 
 ---
 
 ## ⭐ Support
 
-Si vous aimez mes projets, n'hésitez pas à ⭐ les repositories !
+If you like my projects, feel free to ⭐ the repositories!
 
 ---
 
